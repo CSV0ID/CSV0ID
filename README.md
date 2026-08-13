@@ -143,13 +143,13 @@ TOOLS & INFRA
 
 ### `@CSV0ID` &nbsp;·&nbsp; main
 
-<img src="https://ghchart.rshah.org/7F77DD/CSV0ID" alt="CSV0ID contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/39d353/CSV0ID" alt="CSV0ID contribution graph" width="100%"/>
 
 <br/><br/>
 
 ### `@0xchinmay` &nbsp;·&nbsp; internship & side projects
 
-<img src="https://ghchart.rshah.org/534AB7/0xchinmay" alt="0xchinmay contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/39d353/0xchinmay" alt="0xchinmay contribution graph" width="100%"/>
 
 </div>
 
