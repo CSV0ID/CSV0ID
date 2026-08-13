@@ -145,6 +145,22 @@ TOOLS & INFRA
 
 <img src="https://raw.githubusercontent.com/CSV0ID/CSV0ID/output/github-contribution-grid-snake-dark.svg" alt="CSV0ID contribution snake" width="100%"/>
 
+<br/><br/>
+
+### also active on a second account
+
+<a href="https://github.com/0xchinmay">
+  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-0d0d0d?style=for-the-badge" width="100%" alt="divider"/>
+</a>
+
+<a href="https://github.com/0xchinmay">
+  <img src="https://img.shields.io/badge/🔗%20%20%20Visit%20%400xchinmay%20→%20Internship%20%26%20Side%20Projects-1a1a2e?style=for-the-badge&logo=GitHub&logoColor=39d353&labelColor=0d0d0d" alt="Visit @0xchinmay" height="60"/>
+</a>
+
+<br/>
+
+[![0xchinmay](https://img.shields.io/badge/github.com%2F0xchinmay-0d0d0d?style=flat-square&logo=github&logoColor=39d353)](https://github.com/0xchinmay)
+
 </div>
 
 ---
