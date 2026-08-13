@@ -137,9 +137,19 @@ TOOLS & INFRA
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=CSV0ID&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&icon_color=534AB7&text_color=ffffff&ring_color=7F77DD" height="180"/>
+### `@CSV0ID` — main
+
+<img src="https://github-stats-extended.vercel.app/api?username=CSV0ID&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&icon_color=534AB7&text_color=ffffff&ring_color=7F77DD&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CSV0ID&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&text_color=ffffff" height="180"/>
+
+<br/><br/>
+
+### `@0xchinmay` — internship & side projects
+
+<img src="https://github-stats-extended.vercel.app/api?username=0xchinmay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=534AB7&icon_color=7F77DD&text_color=ffffff&ring_color=534AB7&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xchinmay&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=534AB7&text_color=ffffff" height="180"/>
 
 </div>
 
@@ -154,15 +164,16 @@ TOOLS & INFRA
 | 🌐 Web | [chinmayshinde.dev](https://chinmayshinde.dev) |
 | 🐦 Twitter | [@CS2407](https://twitter.com/CS2407) |
 | 📸 Instagram | [@chinmay.shinde247](https://instagram.com/chinmay.shinde247) |
-| 🐙 GitHub | [@CSV0ID](https://github.com/CSV0ID) |
+| 🐙 GitHub (main) | [@CSV0ID](https://github.com/CSV0ID) |
+| 🐙 GitHub (alt) | [@0xchinmay](https://github.com/0xchinmay) |
 | 📧 Email | csv0id@proton.me |
 
 </div>
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER -->
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD,534AB7&height=120&section=footer&fontSize=16&fontColor=ffffff&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD,534AB7&height=120&section=footer&animation=fadeIn)
 
 *Building since 2022 · Pune, India*
 
