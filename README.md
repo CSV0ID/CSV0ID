@@ -13,10 +13,11 @@
 <!-- BADGES -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/chinmayshinde.dev-0d0d0d?style=for-the-badge&logo=firefox&logoColor=7F77DD)](https://chinmayshinde.dev)
-[![Twitter](https://img.shields.io/badge/@CS2407-0d0d0d?style=for-the-badge&logo=x&logoColor=7F77DD)](https://twitter.com/CS2407)
-[![Instagram](https://img.shields.io/badge/@chinmay.shinde247-0d0d0d?style=for-the-badge&logo=instagram&logoColor=7F77DD)](https://instagram.com/chinmay.shinde247)
-[![Quiescan](https://img.shields.io/badge/Quiescan-7F77DD?style=for-the-badge&logo=shield&logoColor=white)](https://quiescan.chinmayshinde.tech)
+[![Portfolio](https://img.shields.io/badge/chinmayshinde.dev-0d0d0d?style=for-the-badge&logo=Firefox&logoColor=7F77DD)](https://chinmayshinde.dev)
+[![Projects](https://img.shields.io/badge/chinmayshinde.tech-0d0d0d?style=for-the-badge&logo=CodePen&logoColor=7F77DD)](https://chinmayshinde.tech)
+[![Twitter](https://img.shields.io/badge/@CS2407-0d0d0d?style=for-the-badge&logo=X&logoColor=ffffff)](https://twitter.com/CS2407)
+[![Instagram](https://img.shields.io/badge/@chinmay.shinde247-0d0d0d?style=for-the-badge&logo=Instagram&logoColor=E1306C)](https://instagram.com/chinmay.shinde247)
+[![Email](https://img.shields.io/badge/csv0id@proton.me-0d0d0d?style=for-the-badge&logo=ProtonMail&logoColor=6D4AFF)](mailto:csv0id@proton.me)
 
 </div>
 
@@ -30,7 +31,6 @@
   Alias     : CSV0ID
   Role      : Diploma CS Engineering @ CWIT, Pune
   Domain    : Offensive Security · Reverse Engineering · AI/ML
-  Building  : Quiescan · VOIDSTRIKE · VoidState · VOIDWEN
   Stack     : Python · Kotlin · TypeScript · React
   Since     : 2022
 ```
@@ -50,30 +50,30 @@
 
 **AI-powered static malware analysis**
 
-Upload a file → get a threat verdict. Gemini-powered heuristic engine. No sandbox. No fluff.
+Drop a file, get the truth. Strings, entropy, hashes, YARA — a full static verdict with no sandbox, no execution, no risk. 500+ YARA rules. 10M+ malware hashes.
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=7F77DD)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=7F77DD)
 ![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=7F77DD)
 ![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=7F77DD)
 
-[![Live →](https://img.shields.io/badge/Live_→-7F77DD?style=for-the-badge)](https://quiescan.chinmayshinde.tech)
+[![Visit Live Site →](https://img.shields.io/badge/Visit_Live_Site_→-7F77DD?style=for-the-badge&logo=shield&logoColor=white)](https://quiescan.chinmayshinde.tech)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚡ VOIDSTRIKE</h3>
+<h3>⚡ VoidStrike</h3>
 
-**Self-hosted offensive recon suite**
+**AI-powered offensive recon suite**
 
-27+ tools in one operator dashboard. nmap · nikto · sqlmap · and more — all wrapped and ready.
+Fingerprints a target, builds a custom scan plan, runs up to 27 security modules, hands back one ranked report. Built for bug bounty hunters and pentesters.
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=7F77DD)
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=7F77DD)
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=7F77DD)
 ![Shell](https://img.shields.io/badge/Shell-0d0d0d?style=flat-square&logo=gnubash&logoColor=7F77DD)
 
-[![Repo →](https://img.shields.io/badge/Repo_→-0d0d0d?style=for-the-badge&logo=github)](https://github.com/CSV0ID)
+[![Visit Live Site →](https://img.shields.io/badge/Visit_Live_Site_→-7F77DD?style=for-the-badge&logo=lightning&logoColor=white)](https://voidstrike.chinmayshinde.tech)
 
 </td>
 </tr>
@@ -92,6 +92,8 @@ Tracks device usage. Runs local ML. Surfaces insights in configurable modes — 
 ![ONNX](https://img.shields.io/badge/ONNX-0d0d0d?style=flat-square&logo=onnx&logoColor=7F77DD)
 ![Tauri](https://img.shields.io/badge/Tauri_v2-0d0d0d?style=flat-square&logo=tauri&logoColor=7F77DD)
 
+[![Visit Live Site →](https://img.shields.io/badge/Coming_Soon-444444?style=for-the-badge&logo=clock&logoColor=white)](#)
+
 </td>
 <td width="50%" valign="top">
 
@@ -103,6 +105,8 @@ Two LLM agent personas, one unified skill. Classical Chinese (文言文) as extr
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=7F77DD)
 ![ONNX](https://img.shields.io/badge/ONNX-0d0d0d?style=flat-square&logo=onnx&logoColor=7F77DD)
+
+[![Visit Live Site →](https://img.shields.io/badge/Under_Development-444444?style=for-the-badge&logo=construction&logoColor=white)](#)
 
 > 🚧 Under active development
 
@@ -137,19 +141,15 @@ TOOLS & INFRA
 
 <div align="center">
 
-### `@CSV0ID` — main
+### `@CSV0ID` &nbsp;·&nbsp; main
 
-<img src="https://github-stats-extended.vercel.app/api?username=CSV0ID&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&icon_color=534AB7&text_color=ffffff&ring_color=7F77DD&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CSV0ID&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7F77DD&text_color=ffffff" height="180"/>
+<img src="https://ghchart.rshah.org/7F77DD/CSV0ID" alt="CSV0ID contribution graph" width="100%"/>
 
 <br/><br/>
 
-### `@0xchinmay` — internship & side projects
+### `@0xchinmay` &nbsp;·&nbsp; internship & side projects
 
-<img src="https://github-stats-extended.vercel.app/api?username=0xchinmay&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=534AB7&icon_color=7F77DD&text_color=ffffff&ring_color=534AB7&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xchinmay&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=534AB7&text_color=ffffff" height="180"/>
+<img src="https://ghchart.rshah.org/534AB7/0xchinmay" alt="0xchinmay contribution graph" width="100%"/>
 
 </div>
 
@@ -159,14 +159,13 @@ TOOLS & INFRA
 
 <div align="center">
 
-| Platform | Handle |
-|---|---|
-| 🌐 Web | [chinmayshinde.dev](https://chinmayshinde.dev) |
-| 🐦 Twitter | [@CS2407](https://twitter.com/CS2407) |
-| 📸 Instagram | [@chinmay.shinde247](https://instagram.com/chinmay.shinde247) |
-| 🐙 GitHub (main) | [@CSV0ID](https://github.com/CSV0ID) |
-| 🐙 GitHub (alt) | [@0xchinmay](https://github.com/0xchinmay) |
-| 📧 Email | csv0id@proton.me |
+[![Website](https://img.shields.io/badge/chinmayshinde.dev-0d0d0d?style=for-the-badge&logo=Firefox&logoColor=7F77DD)](https://chinmayshinde.dev)
+[![Projects](https://img.shields.io/badge/chinmayshinde.tech-0d0d0d?style=for-the-badge&logo=CodePen&logoColor=7F77DD)](https://chinmayshinde.tech)
+[![Twitter](https://img.shields.io/badge/@CS2407-0d0d0d?style=for-the-badge&logo=X&logoColor=ffffff)](https://twitter.com/CS2407)
+[![Instagram](https://img.shields.io/badge/@chinmay.shinde247-0d0d0d?style=for-the-badge&logo=Instagram&logoColor=E1306C)](https://instagram.com/chinmay.shinde247)
+[![GitHub Main](https://img.shields.io/badge/@CSV0ID-0d0d0d?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/CSV0ID)
+[![GitHub Alt](https://img.shields.io/badge/@0xchinmay-0d0d0d?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/0xchinmay)
+[![Email](https://img.shields.io/badge/csv0id@proton.me-0d0d0d?style=for-the-badge&logo=ProtonMail&logoColor=6D4AFF)](mailto:csv0id@proton.me)
 
 </div>
 
