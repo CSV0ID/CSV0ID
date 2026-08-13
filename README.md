@@ -143,13 +143,7 @@ TOOLS & INFRA
 
 ### `@CSV0ID` &nbsp;·&nbsp; main
 
-<img src="https://github-contribution-graph.ez4o.com/?username=CSV0ID&theme=dark&color=39d353" alt="CSV0ID contribution graph" width="100%"/>
-
-<br/><br/>
-
-### `@0xchinmay` &nbsp;·&nbsp; internship & side projects
-
-<img src="https://github-contribution-graph.ez4o.com/?username=0xchinmay&theme=dark&color=39d353" alt="0xchinmay contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/CSV0ID/CSV0ID/output/github-contribution-grid-snake-dark.svg" alt="CSV0ID contribution snake" width="100%"/>
 
 </div>
 
